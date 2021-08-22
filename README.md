@@ -1,2 +1,2 @@
 # header-files
-This contains useful header files created by me for C++ language
+This repository contains header files that might be helpful in C++ programming and could save a lot of time.

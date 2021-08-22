@@ -1,8 +1,8 @@
 # Linked List
 
-## insertNode
-## deleteNode
-## searchNode
-## displayList
-## createList
-## destroyList
+## insertNode()
+## deleteNode()
+## searchNode()
+## displayList()
+## createList()
+## destroyList()
